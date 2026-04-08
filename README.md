@@ -1,5 +1,4 @@
 ## Hi there 👋
-Hi, I’m a software engineer who loves building web applications, working on backend systems and improving application performance
 
 <!--
 **ThaiPhann/ThaiPhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
